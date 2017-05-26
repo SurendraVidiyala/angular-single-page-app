@@ -1,0 +1,31 @@
+{
+  "name": "angular-ui-router",
+  "description": "angular UI-Router and SPA example",
+  "main": "index.html",
+  "authors": [
+    "<surendra_vidiyala> <<vidiyala.surendra@gmail.com>>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "angular-ui-route",
+    "bootstrap",
+    "font-awesomme",
+    "jquery"
+  ],
+  "homepage": "https://github.com/SurendraVidiyala/AngularJS",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular": "^1.6.4",
+    "font-awesome": "^4.7.0",
+    "angular-ui-router": "^1.0.3"
+  }
+}
